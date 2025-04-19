@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# dev
+archives/
+archive/
+backup/
+bak/
+.bak
+tmp/
+temp/
